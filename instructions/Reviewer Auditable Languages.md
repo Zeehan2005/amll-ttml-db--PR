@@ -94,7 +94,7 @@
       <td align="center">❌</td>
     </tr>
     <tr>
-      <td align="center"><b><img src="https://avatars.githubusercontent.com/u/144699330?v=4" width="30" height="30" alt="toaltf4" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/toaltf4">toaltf4</a></b></td>
+      <td align="center"><b><img src="https://avatars.githubusercontent.com/u/144699338?v=4" width="30" height="30" alt="toaltf4" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/toaltf4">toaltf4</a></b></td>
       <td align="center">✅</td>
       <td align="center">✅</td>
       <td align="center">❌</td>
