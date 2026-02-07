@@ -136,7 +136,7 @@
       <td align="center">❌</td>
     </tr>
         <tr>
-      <td align="center"><b><img src="https://avatars.githubusercontent.com/u/79665752?v=4" width="30" height="30" alt="EnchStudio" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/EnchStudio">EnchStudio</a></b></td>
+      <td align="center"><b><img src="https://avatars.githubusercontent.com/u/79665752?v=4" width="30" height="30" alt="EnchStudio" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/ench233">EnchStudio</a></b></td>
       <td align="center">✅</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
